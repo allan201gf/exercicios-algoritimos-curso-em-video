@@ -1,0 +1,1 @@
+const mensagem = alert('Olá, Mundo!');
